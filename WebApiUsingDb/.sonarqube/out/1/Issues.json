@@ -1,0 +1,495 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.2.0.0",
+        "fileVersion": "4.2.0-4.22220.2 (1e40aa11)",
+        "semanticVersion": "4.2.0",
+        "language": "en-GB"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Teacher' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/ApiModel/TeacherandClassroomApiModel.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 32,
+                  "endLine": 5,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/ApiModel/TeacherandClassroomApiModel.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 32,
+                  "endLine": 5,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Classrooms' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/ApiModel/TeacherandClassroomApiModel.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 39,
+                  "endLine": 7,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/ApiModel/TeacherandClassroomApiModel.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 39,
+                  "endLine": 7,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field '_mapper' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/MappingConfiguration/AutoMapperProfile.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 16,
+                  "endLine": 10,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/MappingConfiguration/AutoMapperProfile.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 34,
+                  "endLine": 9,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/Controllers/TeacherController.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 17,
+                  "endLine": 91,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/Controllers/TeacherController.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 42,
+                  "endLine": 77,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/Controllers/TeacherController.cs",
+                "region": {
+                  "startLine": 105,
+                  "startColumn": 50,
+                  "endLine": 105,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'AutoMapperProfile._mapper' is never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/MappingConfiguration/AutoMapperProfile.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 34,
+                  "endLine": 9,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field '_mapper'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/MappingConfiguration/AutoMapperProfile.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 9,
+                  "endLine": 9,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private method 'TeacherExists'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/Controllers/TeacherController.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 9,
+                  "endLine": 160,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/Controllers/WeatherForecastController.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 61,
+                  "endLine": 14,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1116",
+          "level": "warning",
+          "message": "Remove this empty statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/MappingConfiguration/AutoMapperProfile.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 65,
+                  "endLine": 12,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'classroomApiModelsList'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/Controllers/TeacherController.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 40,
+                  "endLine": 59,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'teacherApiModel'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/Controllers/TeacherController.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'obj'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ANI/source/repos/WebApiUsingDb/WebApiDB/Controllers/TeacherController.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 21,
+                  "endLine": 86,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0169": {
+          "id": "CS0169",
+          "shortDescription": "Field is never used",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0169)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "Async method lacks 'await' operators and will run synchronously",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8602": {
+          "id": "CS8602",
+          "shortDescription": "Dereference of a possibly null reference.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8602)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1116": {
+          "id": "S1116",
+          "shortDescription": "Empty statements should be removed",
+          "fullDescription": "Empty statements, i.e. ;, are usually introduced by mistake, for example because:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1116",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "private or internal types or private members that are never executed or referenced are dead code: unnecessary, inoperative code that should be removed. Cleaning out dead code decreases the size of the maintained codebase, making it easier to understand the program and preventing bugs from being introduced.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1144",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope",
+              "Unnecessary"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1854": {
+          "id": "S1854",
+          "shortDescription": "Unused assignments should be removed",
+          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it’s not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S4487": {
+          "id": "S4487",
+          "shortDescription": "Unread \"private\" fields should be removed",
+          "fullDescription": "Private fields only used to store values without reading them later is a case of dead store. So changing the value of such field is useless and most probably indicates a serious error in the code.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope",
+              "Unnecessary"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

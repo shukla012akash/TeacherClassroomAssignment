@@ -1,0 +1,17 @@
+﻿C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\ApiModel\ClassroomApiModel.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\ApiModel\TeacherandClassroomApiModel.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\ApiModel\TeacherApiModel.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Controllers\EmployeeController.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Controllers\StudentsController.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Controllers\TeacherController.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Controllers\WeatherForecastController.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\MappingConfiguration\AutoMapperProfile.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Program.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\WeatherForecast.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\obj\Debug\net6.0\WebApiDB.GlobalUsings.g.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\obj\Debug\net6.0\WebApiDB.AssemblyInfo.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\obj\Debug\net6.0\WebApiDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\appsettings.Development.json
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\appsettings.json
+C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Properties\launchSettings.json

@@ -1,0 +1,14 @@
+﻿C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\DemoDbContext.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Entities\Classroom.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Entities\Employee.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Entities\Student.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Entities\Teacher.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\20220629083414_InitialMigration.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\20220629083414_InitialMigration.Designer.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\20220629113445_teacher.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\20220629113445_teacher.Designer.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\20220629115654_class.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\20220629115654_class.Designer.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\20220629121847_class1.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\20220629121847_class1.Designer.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\Migrations\DemoDbContextModelSnapshot.cs

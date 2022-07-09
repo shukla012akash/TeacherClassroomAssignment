@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiUsingEF", "WebApiDB\WebApiUsingEF.csproj", "{69227526-182E-4728-93D4-5D8D7BC8A35C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiDbLayer", "ApiDbLayer\ApiDbLayer.csproj", "{29FFE4B0-E82E-4E11-BAED-A5F2AD329AF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{113A0A9F-9CE2-4475-B3E2-C9952FBA4ACC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69227526-182E-4728-93D4-5D8D7BC8A35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69227526-182E-4728-93D4-5D8D7BC8A35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69227526-182E-4728-93D4-5D8D7BC8A35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69227526-182E-4728-93D4-5D8D7BC8A35C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FFE4B0-E82E-4E11-BAED-A5F2AD329AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FFE4B0-E82E-4E11-BAED-A5F2AD329AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FFE4B0-E82E-4E11-BAED-A5F2AD329AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FFE4B0-E82E-4E11-BAED-A5F2AD329AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72FE8FA6-EEBC-4CB3-B757-EA10A9A63A83}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+W
+NC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\ApiModel\ClassroomApiModel.csutf-8a
+XC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\ApiModel\TeacherandClassroomApiModel.csutf-8U
+LC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\ApiModel\TeacherApiModel.csutf-8[
+RC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Controllers\EmployeeController.csutf-8[
+RC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Controllers\StudentsController.csutf-8Z
+QC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Controllers\TeacherController.csutf-8b
+YC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Controllers\WeatherForecastController.csutf-8c
+ZC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\MappingConfiguration\AutoMapperProfile.csutf-8D
+;C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\Program.csutf-8L
+CC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\WeatherForecast.csutf-8g
+\C:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\obj\Debug\net6.0\WebApiDB.GlobalUsings.g.csutf-8{
+pC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8e
+ZC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\obj\Debug\net6.0\WebApiDB.AssemblyInfo.csutf-8x
+mC:\Users\ANI\source\repos\WebApiUsingDb\WebApiDB\obj\Debug\net6.0\WebApiDB.MvcApplicationPartsAssemblyInfo.csutf-8
